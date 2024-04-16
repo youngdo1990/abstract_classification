@@ -110,7 +110,3 @@ python predict.py
  docker build run --name snu -v snu:/classification_model snuh
  ```
 </ol>
-
-
-### 🚥리포지토리 접속 허가
-이 리포지토리 다른 사람을 초대하고 싶으면 깃허브 아이디를 alvaro@saltlux.com으로 보내주세요!.
